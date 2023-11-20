@@ -1,0 +1,60 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:WebApplicationApiHotelContextClientes"
+    },
+    "mssql2": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:WebApplicationApiHotelContextCombohabitacion"
+    },
+    "mssql3": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:WebApplicationApiHotelContextDetalleFacturas"
+    },
+    "mssql4": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:WebApplicationApiHotelContextDetalleHabitaciones"
+    },
+    "mssql5": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:WebApplicationApiHotelContextDetalleReservas"
+    },
+    "mssql6": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:WebApplicationApiHotelContextEmpleados"
+    },
+    "mssql7": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:WebApplicationApiHotelContextFactura"
+    },
+    "mssql8": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:WebApplicationApiHotelContextHabitaciones"
+    },
+    "mssql9": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:WebApplicationApiHotelContextHotels"
+    },
+    "mssql10": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:WebApplicationApiHotelContextReserva"
+    },
+    "mssql11": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:WebApplicationApiHotelContextTipoDocumentos"
+    },
+    "mssql12": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:WebApplicationApiHotelContextUsuario"
+    },
+    "mssql13": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:WebApplicationApiHotelContextLoginUsuarios"
+    },
+    "mssql14": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:WebApplicationApiHotelContextTipoHabitacion"
+    }
+  }
+}
